@@ -42,3 +42,56 @@ Canvas Cloud comes with a 99.9% guaranteed uptime Service Level Agreement.
 ### Automated backup
 
 Your data is automatically backed up daily on secure, geographically diverse servers.
+
+Why Choose Canvas Cloud?
+------------------------
+
+### Web 2.0 Services Integration
+
+Ensured connectivity with Web 2.0 services so students and teachers can use tools they already know and love.
+
+### Publisher Content Tools
+
+Import, edit, and remix high-quality publisher-provided content (including question banks) for your courses.
+
+### Canvas Mobile Apps
+
+Stay relevant and productive with Instructure Canvas native mobile apps, including SpeedGrader™ for iPad.
+
+### Integrated Multimedia
+
+Instructure makes sure that your file repository is properly set up so you can use multimedia without a hitch.
+
+### Lockdown Browser Integration
+
+Our Instructure-only Respondus integration makes it easy to enforce academic responsibility.
+
+### Automated Provisioning
+
+Automatically get extra server power when traffic loads jump - without extra costs to bring more servers online.
+
+### Hands-free Updates
+
+Get the latest security patches, fixes, and 3rd party compatibility updates in real time, with no effort.
+
+### Configuration Services
+
+Get Instructure Canvas up and running in no time with the help of our experienced configuration engineers.
+
+### LMS Migration Tools
+
+Easily migrate content you've already created in Blackboard 6 through 9, WebCT 6 through Vista, Angel, etc.
+
+### SIS Integration
+
+Instructure can integrate Canvas with your SIS with either batch or real-time updates.
+
+### Customized Branding
+
+Instructure will help you modify the look of Canvas to fulfill your institution’s branding requirements.
+
+### Multiple Support Options
+
+Multiple support packages to help you tailor your support costs to your institutional needs.
+
+
