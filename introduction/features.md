@@ -1,14 +1,14 @@
 Features
 ========
-
+特点
 SpeedGrader ™
 -------------
 
 The fastest way to blaze through assignment grading. This feature alone saves hours of time.
-
+能够以最快的速度完成各项任务等级。仅这个特点就节省了大量的时间。
 Rich Content Editor
 -------------------
-
+丰富的内容编辑器
 Canvas' content editor allows you to easily embed videos, audio and photos from the web into your course.
 
 Online Testing
