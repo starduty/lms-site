@@ -11,4 +11,4 @@ Accessibility  可访问性
 We've spent a lot of time making sure that the user experience for Canvas is easy, simple, and intuitive, and we don't want to leave anyone out. In fact, Canvas received the "Gold" certification from the National Federation of the Blind, becoming the fastest LMS ever to do so.
   我们已经花了很多时间来确保用户体验Canvas是很方便、简单和直观的，我们不想让任何人掉队。其实，Canvas得到来自全国盲人联合会的“金牌”认证，成为史上发展最快的学习管理系统。
 Canvas conforms with the W3C's Web Accessibility Initiative Web Content Accessibility Guidelines (WAI WCAG) 2.0 AA and Section 508 guidelines.
-  Canvas符合W3C's Web Accessibility
+  Canvas符合W3C’s Web Accessibility Initiative Web Content Accessibility Guidelines (WAI WCAG) 2.0 AA和Section 508指引。
