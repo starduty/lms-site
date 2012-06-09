@@ -5,7 +5,7 @@ In the 1990s it was Java and in the 2000s it was PHP and .NET. The platform for 
 Instructure Canvas in the Cloud  Instructure Canvas的云平台
 
 The Canvas LMS is hosted in a Software as a Service (SaaS) model. Instructure has partnered with Amazon Web Services to assure a truly robust, secure global network of servers. With 128-bit SSL encryption, ISO 27001 certification and SAS70 Type II audits you can be confident that your data is reliable and secure. Canvas also integrates in useful ways with other websites and online services. Facebook, Google Docs, Kaltura online video, LinkedIn, Scribd, and even Twitter, all make appearances in Canvas, and there's more on the way!
-  仕达学习管理系统是在一个Service（SaaS）模式的软件下托管的。Instructure与Amazon Web Service合作以保证它是一个真正强大、安全的全球网络的服务器。有128-bit SSL加密技术和ISO 27001认证，以及SAS70 II型审计，您可以确信您的数据是可靠和安全的。Canvas也可以通过使用有用的方法与其他的网站和在线服务集成。Facebook、Google Docs、Kaltura在线视频、Linkedln、Scribd，甚至是Twitter，这些都会在Canvas上面出现，并且还会有更多的！
+  仕达学习管理系统是托管在一个软件即服务（SaaS）里。Instructure与Amazon Web Service合作以保证它是一个真正强大、安全的全球网络的服务器。有128-bit SSL加密技术和ISO 27001认证，以及SAS70 II型审计，您可以确信您的数据是可靠和安全的。Canvas也可以通过使用有用的方法与其他的网站和在线服务集成。Facebook、Google Docs、Kaltura在线视频、Linkedln、Scribd，甚至是Twitter，这些都会在Canvas上面出现，并且还会有更多的！
 Accessibility  可访问性
 
 We've spent a lot of time making sure that the user experience for Canvas is easy, simple, and intuitive, and we don't want to leave anyone out. In fact, Canvas received the "Gold" certification from the National Federation of the Blind, becoming the fastest LMS ever to do so.
