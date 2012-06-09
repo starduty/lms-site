@@ -7,7 +7,7 @@ SpeedGrader ™   速度加速器
 The fastest way to blaze through assignment grading. This feature alone saves hours of time.
 能够以最快的速度完成各项等级任务。仅这个特点就节省了大量的时间。
 
-Rich Content Editor  富文本编辑器
+Rich Content Editor  丰富内容的文本编辑器
 -------------------
 
 Canvas' content editor allows you to easily embed videos, audio and photos from the web into your course.
