@@ -20,7 +20,7 @@ Your Life: Easier.  让您的生活：更轻松。
 Tired of fighting with technology to get your education? Finally, there's an LMS that makes getting through school easier - not harder. The Canvas LMS offers easy-to-use communication tools, a simple dashboard page that gives you a comprehensive overview of all your classes, a what-if-scenario grade calculator, and a wide array of notification options so that you're alerted whenever something in one of your classes changes.
 
 The point is this: you'll finally be able to see your LMS as a tool, not an obstacle.
-疲于为学业挣扎在各种技术之中？最后，有一个学习管理系统能够帮你更轻松的完成学业，而不是更难。Canvas学习管理系统可以提供容易操作的交流工具，能够像一个简单的仪表板页面那样给你的全部课程提供一个全面概况，是一个能够处理各种情况的高级计算器，并有各种各样的通知选项供你选择，这样无论何时您的课程有变化时都能够得到通知。
+疲于为学业挣扎在各种技术之中？最后，有一个学习管理系统能够帮你更轻松的完成学业，而不是更难。Canvas学习管理系统可以提供容易操作的交流工具，能够像一个控制面板那样给你的全部课程提供一个全面概况，是一个能够处理各种情况的高级计算器，并有各种各样的通知选项供你选择，这样无论何时您的课程有变化时都能够得到通知。
 好处在于：您终于能够感受到学习管理系统是作为一个学习工具，而不是一个障碍。
 Communicate your way.   用您的方式交流。
 ---------------------
