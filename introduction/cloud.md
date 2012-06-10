@@ -121,5 +121,5 @@ requirements.
 ### Multiple Support Options   多种支持选项
 
 Multiple support packages to help you tailor your support costs to your institutional needs.
-     多种支持包帮助您量身定制您机构需要的支持成本。
+     根据你的需求和预算，我们有不同的解决方案。
 
