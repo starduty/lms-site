@@ -53,7 +53,7 @@ Chat / Video  聊天/视频
 ------------
 
 Built-in video and live chat give an extra dimension to the learning experience.
-嵌入的视频和在线聊天可以带来不同层面的学习体验。
+涵盖的视频和在线聊天可以带来更多层面的学习体验。
 
 Rubrics 评估准则
 -------
