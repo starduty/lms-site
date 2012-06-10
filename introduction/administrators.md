@@ -11,6 +11,8 @@ Get to know Canvas  了解Canvas
    Canvas帮助学生和教员通过使用其他学习管理系统不能提供的方法建立联系，这让他们感觉彼此联系的更紧密。用户可以有更多的机会合作，也可以像课堂小组那样活动。我们相信它将会极大的提高回访率。——威斯敏斯特学院 本Neiswender 《新学习分册》
 Take your institution to the next level.  进入下一等级机构。
 
+ （Canvas 是一个开放式平台。一个把你我他联系在一起的交流平台，它让沟通变得简单快捷，让学习在交流中轻松完成。在这里你我他
+ 都可以有更多的选择。在这里你会找到学习兴趣，你会爱上学习。自由的平台，期待更多的你。）
 ### Better for everyone.  人人有益。
 
 Looking for a learning management system that leads to higher teacher satisfaction and student retention? Look no further. Instructure Canvas has what teachers need and students want: a virtual learning environment with an intuitive interface, a full feature set, and flexibility for true course customization. This means wider faculty adoption and a better student learning experience.
