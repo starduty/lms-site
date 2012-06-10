@@ -4,7 +4,7 @@ Administrators  管理员
 Get to know Canvas  了解Canvas
 ------------------
 
-### The simple, open LMS from Instructure  Instructure的简单开放的学习管理系统
+### The simple, open LMS from Instructure  Instructure简单开放的学习管理系统
 
 > Canvas helps students and faculty feel more connected by building relationships in ways that other LMSs haven’t provided. Users collaborate more and function more like classroom groups. We believe it is going to dramatically improve our retention rates. —Ben Neiswender
 > Westminster College, Division of New Learning
