@@ -30,4 +30,4 @@ Instructure's Canvas Cloud service can help. Automated Provisioning technology e
 ### Enable success.  实现成功。
 
 Measure teaching and learning school-wide. Achieve greater consistency in student evaluation with our simple-to-create rubrics. Reduce the effort and expense of accreditation with our integrated learning outcomes tools. The Instructure Canvas approach unifies these tools into the evaluation workflow to increase adoption and decrease work for the instructor.
-    衡量全校规模的教学和学习。用我们简单创建的评估准则在学生评价中能够取得更好的一致性。
+    衡量全校规模的教学和学习。用我们简单创建的评估准则在学生评价中能够取得更好的一致性。用我们综合性学习成果的工具减少资格认证的努力和成本。Instructure Canvas方法把这些工具统一到评价工作流程以增加采纳度和减少教师的工作量。
